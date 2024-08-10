@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: e& Agent Callback
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: Featuring easy managed callbacks and more
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
